@@ -45,7 +45,7 @@ Criar um dashboard interativo capaz de responder perguntas de negócio:
 
 ## Dashboard
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/dashboard_vendas.pdf)
 
 ## Autor
 
@@ -96,7 +96,7 @@ Criar um dashboard interativo capaz de responder perguntas de negócio:
 
 ## Dashboard
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/dashboard_vendas.pdf)
 
 ## Autor
 
